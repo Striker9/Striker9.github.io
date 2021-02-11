@@ -2,10 +2,8 @@ body {
 	background: rgb(19,183,184);
 	background: linear-gradient(90deg, rgba(19,183,184,1) 12%, rgba(40,76,215,1) 72%); 
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	color: #000066;
-
+	color: #00236e;
 }
-
 img {
 	box-shadow: 5px 5px 5px black;
 	border-radius: 10px;
@@ -14,11 +12,8 @@ img {
 	text-decoration: none;
 	font-size: 50px;
 	color: white;
-	border: solid rgba(40,76,215,1);
 	background: rgba(40,76,215,1);
 	border-radius: 5px;
-	
-
 }
 
 h1 {
@@ -29,9 +24,16 @@ h1 {
 	margin: 10px auto;
 }
 hr {
-	color: white;
+	color:white;
 }
 iframe {
 	box-shadow: 5px 5px 5px black;
 	border-radius: 10px;
 }
+#gombik:hover {background:royalblue;}
+
+	.hore {
+	text-decoration: none;
+	color: white;
+	}
+	.hore:hover {background:slategray;}
