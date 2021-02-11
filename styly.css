@@ -9,14 +9,15 @@ body {
 img {
 	box-shadow: 5px 5px 5px black;
 	border-radius: 10px;
-	
 }
-a {
+#gombik {
 	text-decoration: none;
-	background-color: rgba(40,76,215,1);
+	font-size: 50px;
 	color: white;
-	border: rgba(40,76,215,1);
+	border: solid rgba(40,76,215,1);
+	background: rgba(40,76,215,1);
 	border-radius: 5px;
+	
 
 }
 
